@@ -1,0 +1,13 @@
+body{
+    background-image: url("background2.jpg");
+}
+h1,h3,label{
+    color: white;
+}
+#logout
+{
+	font-size: 25px; float: right;
+}
+img{
+    width: 50px;
+}

@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-image: url("background.jpg");
+}
+#login_button{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+img{
+    width: 10%;
+}
